@@ -1,0 +1,12 @@
+{
+  "name": "some-node-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "build": "echo 'Build command executed'"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
